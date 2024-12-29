@@ -12,10 +12,7 @@ public class Main {
 
                 dog2.setName("jack");
                 dog2.setRace("Pitbul");
-
-
-
-
+                
                 System.out.println("Name of Dog1 " + dog1.getName());
                 System.out.println("Name of Dog2 " + dog2.getName());
 
